@@ -1,0 +1,16 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+sqlalchemy==2.0.37
+psycopg2-binary==2.9.10
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.20
+pydantic[email]==2.10.5
+pydantic-settings==2.2.1
+python-dotenv==1.0.1
+sendgrid==6.11.0
+mollie-api-python==3.7.4
+radicale==3.1.8
+pypdf2==3.0.1
+pdfplumber==0.10.3
+icalendar==5.0.11
